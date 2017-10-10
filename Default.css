@@ -1,0 +1,63 @@
+*{
+    text-align: center;
+}
+header{
+    position: relative;
+    top: -25px;
+    left: 0%;
+    font-family: 'Oswald', sans-serif;
+    width: 100%;
+    box-shadow: 5px 3px 10px 1px #999999;
+    background: linear-gradient(rgba(200,200,200,1), rgba(255,255,255,1),rgba(200,200,200,1));
+    margin-bottom: 40px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #576675
+}
+body{
+    background: linear-gradient(rgba(153, 204, 255,0.15), rgba(255,255,255,0.1),rgba(153, 204, 255, 0.15), rgba(255,255,255,0.1),rgba(153, 204, 255, 0.15));
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+article{
+    font-family: 'Open-Sans', sans-serif;
+    margin: auto;
+    width: 80%;
+    box-shadow: 5px 3px 10px 1px #999999;
+    background: linear-gradient(rgba(200,200,200,1), rgba(255,255,255,1),rgba(200,200,200,1));
+    margin-bottom: 40px;
+    padding: 30px;
+    border-radius: 5px;
+    letter-spacing: 0.05px;
+    word-spacing: 1px;
+}
+p{
+    text-align: left;
+}
+li{
+    text-align: left;
+}
+h3{
+border-style: solid;
+border-width: 4px 0px 4px 0px;
+border-image: url(../images/divisor.png) 51 53 52 51 round repeat;
+}
+footer{
+    background:linear-gradient(rgba(200,200,200,1), rgba(255,255,255,1),rgba(200,200,200,1));
+    position: fixed;
+    top: 96%;
+    left: 0%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    letter-spacing: 0.05px;
+    word-spacing: 1px;
+    box-shadow: 5px 3px 10px 1px #999999;
+    width:100%;
+    height: 4%;
+}
