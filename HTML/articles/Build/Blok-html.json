@@ -1,6 +1,8 @@
 {
 "TOTAL_MEMORY": 268435456,
 "dataUrl": "Blok-html.data.unityweb",
+"wasmCodeUrl": "Blok-html.wasm.code.unityweb",
+"wasmFrameworkUrl": "Blok-html.wasm.framework.unityweb",
 "asmCodeUrl": "Blok-html.asm.code.unityweb",
 "asmMemoryUrl": "Blok-html.asm.memory.unityweb",
 "asmFrameworkUrl": "Blok-html.asm.framework.unityweb",
