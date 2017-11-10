@@ -98,3 +98,29 @@ footer{
     position:relative;
     margin: auto;
 }
+section{
+	position: relative;
+	font-family: 'Open-Sans', sans-serif;
+    box-shadow: 5px 3px 10px 1px #999999;
+    background: #fafafa;
+    padding: 30px;
+    border-radius: 5px;
+    letter-spacing: 0.05px;
+    word-spacing: 1px;
+	width: 40%;
+	margin: 5px;
+	display: inline-block;
+}
+section:hover{
+	box-shadow: 6px 4px 11px 2px #999999;
+	background: #ffffff;
+}
+section p {
+	postion: absolute;
+	top: 50%;
+    width: 100%;
+    text-align: center;
+}
+section img {
+	width: 90%;
+}
