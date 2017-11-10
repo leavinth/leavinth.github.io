@@ -124,3 +124,21 @@ section p {
 section img {
 	width: 90%;
 }
+.drop{
+	width:90%;
+}
+.drop div{
+	display: none;
+    position: relative;
+    z-index: 1;
+}
+.drop:hover{
+	height:300px;
+}
+.drop:hover div{
+	display: block;
+	height:100px;
+}
+.drop:hover div p {
+	font-size:100%;
+}
