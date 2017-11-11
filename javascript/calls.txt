@@ -1,0 +1,3 @@
+  <script src="head.js" type="application/javascript" rel="preload"></script>
+  <script src="header.js" type="application/javascript" rel="preload"></script>
+  <script src="footer.js" type="application/javascript" rel="preload"></script>
