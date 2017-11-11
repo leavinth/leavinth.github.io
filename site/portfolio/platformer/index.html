@@ -22,14 +22,15 @@
     </head>
   <body>
     <script src="https://leavinth.github.io/javascript/header.js" type="application/javascript" rel="preload"></script>
-    <article>
-      <h2>Bloks</h2>
+    <article itemscope itemtype="http://schema.org/VideoGame">
+      <h2 itemprop="name">Bloks</h2>
       <div id="gameContainer" style="width: 800px; height: 413px; margin: auto"></div>
       <section class="drop"><h4>Game Info:</h4>
 	  <div>
-      <p>Genre: platformer
+      <p><span itemprop="genre">Genre: platformer</span>
+	  <br /> Creator: <span itemprop="creator">Levi Evans</span>
 	  <br /><a href="https://goo.gl/forms/U1KS53MVUwMZimFB2">Bugs or suggestions? Report here.</a>
-	  <br/>Version:0.61{
+	  <br/>Version:<span itemprop="version">0.61</span>{
 	  <br/>Fixed "space" bug - you can enter a name with spaces
 	  <br/>Moved poorly placed objects - you can "saftely" complete the climb the wall section
 	  <br/>Added falling platforms - these platforms fall a second after you land on them
