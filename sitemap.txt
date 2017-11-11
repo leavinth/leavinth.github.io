@@ -1,0 +1,6 @@
+https://leavinth.github.io/index.html
+https://leavinth.github.io/site/about/index.html
+https://leavinth.github.io/site/portfolio/index.html
+https://leavinth.github.io/site/vocab/index.html
+https://leavinth.github.io/site/portfolio/spacer/index.html
+https://leavinth.github.io/site/portfolio/platformer/index.html
