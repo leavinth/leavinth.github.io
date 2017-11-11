@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+   <msapplication>
+     <tile>
+        <square70x70logo src="leavinth.github.io/images/small.PNG"/>
+        <square150x150logo src="leavinth.github.io/images/medium.PNG"/>
+        <wide310x150logo src="leavinth.github.io/images/wide.PNG"/>
+        <square310x310logo src="leavinth.github.io/images/large.PNG"/>
+     </tile>
+   </msapplication>
+</browserconfig>
