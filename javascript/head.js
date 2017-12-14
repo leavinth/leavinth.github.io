@@ -1,7 +1,7 @@
 /*Get width of headings when inside articles */
 var width = window.innerWidth;
 var eightywidth = width * 0.8;
-var widthofheading = eightywidth + 30;
+var widthofheading = eightywidth + 60;
 /*Get width when inside of sections*/
 var fourtyeightywidth = width * 0.32;
 var fourtywidthofheading = fourtyeightywidth + (fourtyeightywidth/2);
