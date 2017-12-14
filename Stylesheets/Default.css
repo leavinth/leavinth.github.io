@@ -1,6 +1,6 @@
 /* cyrillic */
 @font-face {
-  font-family: 'Oswald';
+  font-family: 'Helvetica';
   font-style: normal;
   font-weight: 700;
   src: local('Oswald Bold'), local('Oswald-Bold'), url(../fonts/oswald-data/Oswaldcyrlc.woff2) format('woff2');
