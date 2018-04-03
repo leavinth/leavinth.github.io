@@ -1,0 +1,13 @@
+{
+"companyName": "1984LITCircle",
+"productName": "The Dictator",
+"dataUrl": "thedictator.data.unityweb",
+"asmCodeUrl": "thedictator.asm.code.unityweb",
+"asmMemoryUrl": "thedictator.asm.memory.unityweb",
+"asmFrameworkUrl": "thedictator.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
